@@ -2,7 +2,7 @@ import requests, re
 
 class Stock:
     def __init__(self, stock):
-        self.author = ["Akuto"]
+        self.author = ["Amani"]
         self.contact = ["akutosecurity@protonmail.ch", "https://github.com/AkutoSecurity"]
         self.version = [0.1]
         
